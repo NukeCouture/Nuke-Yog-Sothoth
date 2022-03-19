@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x39169b0900b65414c7e2aC2D99E7753B524b50c0",
+  "SCAN_LINK": "https://polygonscan.com/address/0x39169b0900b65414c7e2aC2D99E7753B524b50c0",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Nuke Yog-Sothoth",
+  "SYMBOL": "NYSGRC",
+  "MAX_SUPPLY": 8500,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 385000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nuke-yog-sothoth",
+  "SHOW_BACKGROUND": true
+}
